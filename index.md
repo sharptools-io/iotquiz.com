@@ -1,2 +1,1 @@
-## IoT Quiz
-Placeholder site for IoTQuiz.com
+Welcome to iotquiz.com! Do you have a piece of Internet of Things or Home Automation trivia? If so, [submit it as a suggestion](https://github.com/sharptools-io/iotquiz.com/issues/new) and we'll get it added to the quiz!
